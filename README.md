@@ -1,4 +1,4 @@
-# README sync2 github
+# README sync2 github > mod in github
 
 
 
