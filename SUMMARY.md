@@ -3,16 +3,14 @@
 * [README sync2 github](README.md)
 * [201812R](201812r.md)
 
-## 需求
-
 ## 部署
 
 * [Untitled](bu-shu/untitled.md)
 
 ## 接口
 
-* [index](api/untitled.md)
-* [export-BudgetAccounts](api/export-budgetaccounts.md)
+* [index](jie-kou/untitled.md)
+* [export-BudgetAccounts](jie-kou/export-budgetaccounts.md)
 
 ## 定时任务
 
