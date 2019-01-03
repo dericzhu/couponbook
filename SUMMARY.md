@@ -10,6 +10,6 @@
 
 ## query
 
-* [query](query/query.md)
-* [优惠劵关联销售报表](query/you-hui-guan-lian-xiao-shou-bao-biao.md)
+* [index](query/index.md)
+* [优惠劵关联销售报表](query/b-couponresult-scene1.md)
 
