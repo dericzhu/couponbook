@@ -28,8 +28,3 @@
 
 * [test](testgitbook/test.md)
 
-## testcase
-
-* [测试用例](testcase/ce-shi-yong-li.md)
-* [main](testcase/main.md)
-
