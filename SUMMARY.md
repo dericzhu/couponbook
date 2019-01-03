@@ -12,7 +12,7 @@
 
 ## 接口
 
-* [Untitled](jie-kou/untitled.md)
+* [index](api/untitled.md)
 
 ## 定时任务
 
@@ -21,4 +21,8 @@
 ## rpc
 
 * [Untitled](rpc/untitled.md)
+
+## faq
+
+* [问答](faq/wen-da.md)
 
